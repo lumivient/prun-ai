@@ -1,0 +1,14 @@
+[project]
+name = "prun-ai"
+version = "0.1.0"
+description = "Prun AI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+	"fio-cli @ git+https://github.com/lumivient/fio-cli",
+]
+
+[dependency-groups]
+dev = [
+	"pytest>=8.3.0",
+]

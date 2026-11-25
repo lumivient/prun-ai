@@ -1,0 +1,26 @@
+# secrets
+config.toml
+
+# virtualenv
+.venv/
+
+# python cache/build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+dist/
+build/
+*.egg-info/
+
+# tooling caches
+.uv-cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# macOS
+.DS_Store

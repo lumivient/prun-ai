@@ -1,0 +1,6 @@
+[submodule "docs/prosperousuniverse-docs"]
+	path = docs/prosperousuniverse-docs
+	url = https://github.com/simulogics/prosperousuniverse-docs.git
+[submodule "docs/prun-community-derived-mechanics"]
+	path = docs/prun-community-derived-mechanics
+	url = https://gitlab.com/fnar/prun-community-derived-mechanics.git
